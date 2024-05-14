@@ -1,0 +1,7 @@
+ *.exe
+/build
+/imgui
+/SDL3
+imgui.ini
+SDL3.dll
+*.exe
