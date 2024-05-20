@@ -1,5 +1,7 @@
 # sdl3_sample01
 
+# License: MIT
+
 # Information:
  Note SDL3 is unstable. Have not check on the status. Looking debug test build.
 
@@ -43,6 +45,7 @@ cmake --build .
 # refs:
  - https://github.com/msys2/MSYS2-packages/issues/769
  - https://www.youtube.com/watch?v=H08t6gD1Y1E
+ - https://www.youtube.com/watch?v=Mi47TQ4Tsr8 How to setup SDL3 as a git submodule with Modern CMake
  - 
 # bug:
  - https://github.com/ocornut/imgui/pull/7580
